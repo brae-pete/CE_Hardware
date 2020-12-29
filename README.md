@@ -1,6 +1,6 @@
 # CE_Hardware
 
-Repository containing the CAD files and assemblies, as well as diagrams used to build or describe a custom CE instrumentation setup for chemical cytometry. 
+Repository containing the CAD files and assemblies, as well as diagrams used to build or describe a custom CE instrumentation setup for chemical cytometry. "Assembly Notes" contains an overview of the major components for the CE instrument along with lists of materials, drawings, and diagrams for key assemblies. 
 
 For more in depth coverage see the below articles:
 
